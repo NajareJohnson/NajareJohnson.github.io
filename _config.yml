@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Najare Johnson / DREAM 2024"
+title                    : "Najare Johnson: DREAM 2024"
 title_separator          : "-"
 name                     : &name "Najare Johnson"
 description              : &description "personal description"
-url                      : https://najarejohnson.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://najarejohnson.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "NajareJohnson/NajareJohnson.github.io"
 
@@ -22,12 +22,12 @@ repository               : "NajareJohnson/NajareJohnson.github.io"
 author:
   # Biographic information
   avatar           : "https://avatars.githubusercontent.com/u/105761739?v=4"
-  name             : "Your Sidebar Name"
+  name             : "Najare Johnson, M.S"
   pronouns         : "she/her/hers"   
   bio              : "Mental Health Professional and Computer Science Researcher"
   location         : "Denver, Colorado, USA"
   employer         : "Rocky Mountain Human Services"
-  uri              : "https://www.rmhumanservices.org"
+  uri              : 
   email            : "najare@usf.edu" 
 
   # Academic websites
@@ -48,7 +48,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : 
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
