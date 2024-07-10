@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Midterm Technical Report"
+excerpt: "Midterm Project Progress Report 1<br/><img src='/images/coming-soon-design-template-324786bb7bb07420266fbe875208bfbe_screen.jpg'>"
 collection: portfolio
 ---
 
