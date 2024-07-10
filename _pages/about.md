@@ -13,15 +13,15 @@ I am an intrinsically motivated and meticulous leader with research experience i
 About my Advisors: 
 ======
 
-[Seungbae_Kim_14](https://github.com/NajareJohnson/NajareJohnson.github.io/assets/105761739/3c555769-f7e9-492c-8cb7-20c95647a48d)
-
-[DREAM Research Advisor] Dr. Kim (https://www.usf.edu/engineering/cse/people/kim-seungbae.aspx)
-![madisetti_vijay](https://github.com/NajareJohnson/NajareJohnson.github.io/assets/105761739/70c38c20-b840-477e-969d-33f21b13df73)
-
+<img src="/images/Seungbae_Kim_14.jpg" width ="80" height= "80">
+Research Advisor: Dr. Seungbae Kim
+Research Area(s): 
 
 
-Dr. Madisetti 
-https://ece.gatech.edu/directory/vijay-k-madisetti
+<img src="/images/vijay.jpg" width ="80" height= "80">
+
+Profressional Development Advisor: Dr. Vijay Madisetti 
+Research Area(s):
 
 About My Project - DREAM
 ======
