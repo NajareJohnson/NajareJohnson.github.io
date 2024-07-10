@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Najare Johnson: Dream 2024" 
+title                    : "Najare Johnson: Dream 2024 <img src='/images/Consortium_Logo.png'>" 
 title_separator          : "-"
 name                     : &name "Najare Johnson"
 description              : &description "personal description"
