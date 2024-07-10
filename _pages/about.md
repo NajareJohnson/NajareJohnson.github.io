@@ -12,8 +12,7 @@ I am an intrinsically motivated and meticulous leader with research experience i
 
 About my Advisors: 
 ======
-Dr. Kim 
-https://www.usf.edu/engineering/cse/people/kim-seungbae.aspx
+[DREAM Research Advisor] Dr. Kim (https://www.usf.edu/engineering/cse/people/kim-seungbae.aspx)
 
 Dr. Madisetti 
 https://ece.gatech.edu/directory/vijay-k-madisetti
