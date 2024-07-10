@@ -13,7 +13,7 @@ I am an intrinsically motivated and meticulous leader with research experience i
 About my Advisors: 
 ======
 
-<img src="/images/Seungbae_Kim_14.jpg" width ="90" height= "100">
+<img src="/images/Seungbae_Kim_14.jpg" width ="100" height= "90">
 Research Advisor: Dr. Seungbae Kim
 Research Area(s): 
 
@@ -26,3 +26,4 @@ Research Area(s):
 About My Project - DREAM
 ======
 
+Learn more about <a href= "https://cra.org/cra-wp/dream-distributed-research-apprenticeships-for-masters/"> DREAM </a>
