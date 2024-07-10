@@ -13,12 +13,12 @@ I am an intrinsically motivated and meticulous leader with research experience i
 About my Advisors: 
 ======
 
-<img src="/images/Seungbae_Kim_14.jpg" width ="80" height= "80">
+<img src="/images/Seungbae_Kim_14.jpg" width ="90" height= "100">
 Research Advisor: Dr. Seungbae Kim
 Research Area(s): 
 
 
-<img src="/images/vijay.jpg" width ="80" height= "80">
+<img src="/images/vijay.jpg" width ="100" height= "100">
 
 Profressional Development Advisor: Dr. Vijay Madisetti 
 Research Area(s):
