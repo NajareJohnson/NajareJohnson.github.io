@@ -14,8 +14,7 @@ About my Advisors:
 ======
 
 <img src="/images/Seungbae_Kim_14.jpg" width ="100" height= "90">
-Research Advisor: <a href="https://sites.google.com/site/sbkimcv/home"> Dr. Seungbae Kim </a> <break></break>
-Research Area(s): Fairness in Machine Learning, Explainable Artifical Intelligence, Data/Social/Web Mining, Applied Data Science: Online Social Networks and Mental Health.
+Research Advisor: <a href="https://sites.google.com/site/sbkimcv/home"> Dr. Seungbae Kim </a> <break></break> Research Area(s): Fairness in Machine Learning, Explainable Artifical Intelligence, Data/Social/Web Mining, Applied Data Science: Online Social Networks and Mental Health.
 Institution: University of South Florida. CSE Department 
 
 
