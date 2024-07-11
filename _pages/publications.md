@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Technical Writing"
-permalink: /Technical Writing/
+title: "Portfolio"
+permalink: /portfolio/
 author_profile: true
 ---
 
