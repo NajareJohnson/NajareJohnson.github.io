@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-PLACE HOLDER 
 I am an intrinsically motivated and meticulous leader with research experience in jury decision-making, artificial intelligence, mental health law and policy, and laboratory settings. I aspire to pursue research to leverage machine and deep learning and advance child welfare assessments. Secondary research interests include psychometrics (i.e., development and validation of assessment tools) to better understand race, ethnicity, and cultural disparities to current applications of artificial intelligence in child abuse detection. Training areas completed in ethics and compliance, human subject research, and mentorship.
 
 About my Advisors: 
