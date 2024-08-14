@@ -50,21 +50,21 @@ Work Experience
 
  * Aug 2021 - Present: Rogers Behavioral Health, Tampa, Florida
    Mental Health Profressional 
-  * Plan,develop and facilitate psycho-educational groups for children and adult patients.
-  * Assumes responsibility for assigned patients and documentation of daily progress notes.
-  * Participate in multidisciplinary treatment team meetings and contribute to treatment plan development.
-  * Maintains clinic census medical records in a functional,detailed,and accurate manner through Citrix Receiver applications.
-  * Performs billing responsibilities related to clinic operations and coordinates with central offices.
-  * Navigates inperson and phone inquires for services by describing levels of care,screening for services,and providing program recommendations.
+    * Plan,develop and facilitate psycho-educational groups for children and adult patients.
+    * Assumes responsibility for assigned patients and documentation of daily progress notes.
+    * Participate in multidisciplinary treatment team meetings and contribute to treatment plan development.
+    * Maintains clinic census medical records in a functional,detailed,and accurate manner through Citrix Receiver applications.
+    * Performs billing responsibilities related to clinic operations and coordinates with central offices.
+    * Navigates inperson and phone inquires for services by describing levels of care,screening for services,and providing program recommendations.
 
  * March 2020 - August 2021: Florida Department of Helath, Investigative Services Unit, Saint Petersburg, Florida 
    Investigation Specialist II 
-  * Investigates complaints of alleged violations of Florida Statutes and Board Rules involving professions under the jurisdiction of the department. The              investigations include interviewing, reviewing court or other related records,and preparing a comprehensive report.
-  * Completes assigned routine inspections of healthcare facilities and establishments.
-  * Testifies and/or presents evidence at administrative hearings,depositions,or trials.
-  * Consults, assists, and acts as liaison between and among the professional boards,complainants,
-    licensees, consultants, other governmental agencies.
-  * Represents the agency at board meetings, probable cause panel meetings, hearings, conferences; attends educational seminars to enhance professional                development and expertise.
+    * Investigates complaints of alleged violations of Florida Statutes and Board Rules involving professions under the jurisdiction of the department. The investigations include interviewing, reviewing court or other related records,and preparing a comprehensive report.
+    * Completes assigned routine inspections of healthcare facilities and establishments.
+    * Testifies and/or presents evidence at administrative hearings,depositions,or trials.
+    * Consults, assists, and acts as liaison between and among the professional boards,complainants,
+      licensees, consultants, other governmental agencies.
+    * Represents the agency at board meetings, probable cause panel meetings, hearings, conferences; attends educational seminars to enhance professional development and expertise.
 
   * Aug 2016 - Dec 2019: University of South Florida, Department of Mental Health Law and Policy, Tampa, FL 
     Research Assistant 
