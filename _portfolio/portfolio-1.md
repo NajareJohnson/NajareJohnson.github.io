@@ -1,6 +1,6 @@
 ---
 title: "Midterm Technical Report"
-excerpt: "Midterm Project Progress Report 1<br/><img src='/images/coming-soon-design-template-324786bb7bb07420266fbe875208bfbe_screen.jpg'>"
+excerpt: "Midterm Project Progress Report" - See Week 14-18 blog posts. 
 collection: portfolio
 ---
 
